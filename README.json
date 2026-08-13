@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T17:20:03Z",
+            "last_commit": "2026-08-13T05:42:48Z",
             "owner": "marvinscham",
             "repo": "disenchanter",
             "stars": 105
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:13.294Z",
+    "last_updated": "2026-08-13T08:40:14.474Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",

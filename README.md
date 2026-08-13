@@ -27,7 +27,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,659 | 🐛 5 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
 
-* [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 4 | 🌐 Go | 📅 2026-08-12 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
+* [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 4 | 🌐 Go | 📅 2026-08-13 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 98 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
 
