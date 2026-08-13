@@ -1,0 +1,734 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ChampR",
+          "description": "Allows auto generate recommend champion builds and popup runes list and apply on the fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-17T12:51:41Z",
+            "owner": "cangzhang",
+            "repo": "ChampR",
+            "stars": 1702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deceive",
+          "description": "Masks your online status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-03T13:44:32Z",
+            "owner": "molenzwiebel",
+            "repo": "Deceive",
+            "stars": 1659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Disenchanter",
+          "description": "Mass disenchant loot like champion shards, skin shards, mythic essence and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:20:03Z",
+            "owner": "marvinscham",
+            "repo": "disenchanter",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RuneBook",
+          "description": "App that can import runes from many sources. Updated fork of the original app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-19T06:47:39Z",
+            "owner": "Soundofdarkness",
+            "repo": "RuneBook",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legendary Rune Maker",
+          "description": "Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T09:27:50Z",
+            "owner": "pipe01",
+            "repo": "legendary-rune-maker",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RuneChanger",
+          "description": "Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-14T18:13:28Z",
+            "owner": "stirante",
+            "repo": "RuneChanger",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "League Tools",
+          "description": "A cross-platform desktop app with many League Client exploits (e.g profile customization).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T19:32:12Z",
+            "owner": "7rebux",
+            "repo": "league-tools",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark Binding",
+          "description": "Manages your keybindings based on your selected champion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-23T15:54:11Z",
+            "owner": "s-coimbra21",
+            "repo": "dark-binding-gui",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeagueRecord",
+          "description": "A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-15T01:10:41Z",
+            "owner": "FFFFFFFXXXXXXX",
+            "repo": "league_record",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentinel",
+          "description": "Enables the use of Windows 10 notifications to show alerts from the client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-18T11:59:32Z",
+            "owner": "molenzwiebel",
+            "repo": "Sentinel",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "League Unglitch",
+          "description": "Windows C# application using ALREADY EXISTING functionality to fix existing UI/graphical bugs and issues that prevent players from joining champion select, selecting runes, selecting champions, banning champions, making players dodge champion select etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-04-27T10:21:52Z",
+            "owner": "MaciejGorczyca",
+            "repo": "League-Unglitch",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lytical",
+          "description": "Match statistics and profile analytics app for all regions including Garena & WeGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-01-20T05:09:03Z",
+            "owner": "LyticalApp",
+            "repo": "Lytical",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YasuNO",
+          "description": "Prevents you from selecting Yasuo in champion select.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T03:58:19Z",
+            "owner": "YasuNO-LLC",
+            "repo": "YasuNO",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "league_profile_tool",
+          "description": "Manage your friend list, invites, bio, rank, status, tokens, and more within the client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:24:00Z",
+            "owner": "L9Lenny",
+            "repo": "league_profile_tool",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crescendo",
+          "description": "Allows you to mute the annoying PHOOOOM sound when you accept the game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-08T13:51:17Z",
+            "owner": "molenzwiebel",
+            "repo": "Crescendo",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LolAV",
+          "description": "A desktop app that will allow you to set one of the hidden Tencent icons for your profile.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-09-20T19:56:37Z",
+            "owner": "Adaliciously",
+            "repo": "lolav",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "League Fan",
+          "description": "A website for previewing League of Legends summoner Icons, emotes, and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-27T07:00:09Z",
+            "owner": "league-fan",
+            "repo": "league-fan.github.io",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ancient Chimes",
+          "description": "Export your friends list into a text file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-02T00:56:51Z",
+            "owner": "ulgg",
+            "repo": "ancient-chimes",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hwei's Brush",
+          "description": "Change your League of Legends Profile background to any splash art of your choice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-23T10:45:40Z",
+            "owner": "rico-vz",
+            "repo": "Hweis-Brush",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insert Mission Here",
+          "description": "Creates custom missions for clubs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-02-09T21:31:00Z",
+            "owner": "afieldi",
+            "repo": "2018-Riot-API-Challenge",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PassCalc",
+          "description": "A calculator for League of Legends passes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T05:54:56Z",
+            "owner": "Fumi24",
+            "repo": "PassCalc",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LickMyRunes",
+          "description": "Automatically import runes for your picked champion from OP.GG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-12T18:15:56Z",
+            "owner": "Ponita0",
+            "repo": "LickMyRunes",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trophy Hunter",
+          "description": "Creates your personalized trophy wall based on completed challenges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-01-25T18:12:19Z",
+            "owner": "TiFu",
+            "repo": "riot-api-challenge-2018",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytLegends",
+          "description": "A League Of Legends overlay to play YouTube videos in-game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-11T19:32:57Z",
+            "owner": "0adri3n",
+            "repo": "ytLegends",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "League Director",
+          "description": "Official tool for making advanced League of Legends replays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T19:39:25Z",
+            "owner": "RiotGames",
+            "repo": "leaguedirector",
+            "stars": 1014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lol-pick-ban-ui",
+          "description": "Web based tournament UI to display champion select picks and bans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-21T09:13:06Z",
+            "owner": "RCVolus",
+            "repo": "lol-pick-ban-ui",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creator Suite",
+          "description": "Tool by SkinSpotlights made for the Replay API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-04-30T11:59:59Z",
+            "owner": "SkinSpotlights",
+            "repo": "CreatorSuite-ReplayAPI",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Content Creation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RiftExplorer",
+          "description": "Electron application to explore the LCU API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-03T05:40:03Z",
+            "owner": "Pupix",
+            "repo": "rift-explorer",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeagueConnect",
+          "description": "NPM Module to get the LCU credentials and connect to the websocket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-31T19:31:58Z",
+            "owner": "junlarsen",
+            "repo": "league-connect",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Needlework.Net",
+          "description": "A helper development tool and explorer for the LCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-25T18:58:41Z",
+            "owner": "BlossomiShymae",
+            "repo": "Needlework.Net",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcu-driver",
+          "description": "Python3 interface for LCU API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-30T11:58:28Z",
+            "owner": "sousa-andre",
+            "repo": "lcu-driver",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcu-connector",
+          "description": "NPM Module to connect to the LCU automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-23T07:20:08Z",
+            "owner": "Pupix",
+            "repo": "lcu-connector",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lol-client-java-api",
+          "description": "Java library for connecting to LCU through API and websocket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-29T17:22:05Z",
+            "owner": "stirante",
+            "repo": "lol-client-java-api",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcu-event-viewer",
+          "description": "View and record events that the LCU sends through WebSockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-01-23T17:39:12Z",
+            "owner": "pipe01",
+            "repo": "lcu-event-viewer",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcu-sharp",
+          "description": "An C# API wrapper for the League of Legends client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-07-17T03:03:57Z",
+            "owner": "bryanhitc",
+            "repo": "lcu-sharp",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RitoClient",
+          "description": "Deep dive into your RiotClient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-17T12:50:04Z",
+            "owner": "nomi-san",
+            "repo": "RitoClient",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcu-api",
+          "description": "A Python LCU wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-22T01:57:19Z",
+            "owner": "jjmaldonis",
+            "repo": "lcu-api",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PoniLCU",
+          "description": "C# Library for interacting with the LCU APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-05-30T06:37:56Z",
+            "owner": "Ponita0",
+            "repo": "PoniLCU",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hexgate",
+          "description": "A TypeScript LCU wrapper available on NPM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-06T01:43:29Z",
+            "owner": "cuppachino",
+            "repo": "hexgate",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-debugger",
+          "description": "Debug client API calls via Fiddler.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-05-17T12:59:19Z",
+            "owner": "dragitz",
+            "repo": "simple-debugger",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "league-client-mcp",
+          "description": "Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-27T09:41:16Z",
+            "owner": "rumi-chan",
+            "repo": "league-client-mcp",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-lcu",
+          "description": "Go Library to automatically retrieve the port and token of the LCU and wrap it behind a reverse proxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-27T21:45:45Z",
+            "owner": "ImOlli",
+            "repo": "go-lcu",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcu-events",
+          "description": "Cross-platform NPM Module to handle WebSocket events and make API calls to LCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-24T20:17:28Z",
+            "owner": "sxnney",
+            "repo": "lcu-events",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llux",
+          "description": "Transfer data to the LCU via the command-line interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-21T16:45:33Z",
+            "owner": "BlossomiShymae",
+            "repo": "llux",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrrrLCU",
+          "description": "A simple C# wrapper for the LCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-05T19:08:37Z",
+            "owner": "BlossomiShymae",
+            "repo": "Briar",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlassLCU",
+          "description": "C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T03:51:39Z",
+            "owner": "pipe01",
+            "repo": "GlassLCU",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ratRequ3ster",
+          "description": "Python app to interact with LCU API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-03T09:40:09Z",
+            "owner": "0adri3n",
+            "repo": "ratRequ3ster",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rito",
+          "description": "C++ set of utility classes for Riot API and LCU API connection.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-11-11T19:39:21Z",
+            "owner": "bartekjaszczak",
+            "repo": "rito",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Get League Patch",
+          "description": "A GitHub Action saving the latest patch into a variable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-29T20:21:37Z",
+            "owner": "marvinscham",
+            "repo": "get-league-patch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Setup League Client",
+          "description": "A GitHub Action for setting up LCU on a Windows runner.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Download League of Legends Data Dragon",
+          "description": "A GitHub Action for downloading the Data Dragon on a runner.",
+          "children": []
+        }
+      ],
+      "title": "DevOps Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:13.294Z",
+    "original_repository": "CommunityDragon/awesome-league",
+    "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
+    "enhanced_repository": "enhansome/enhansome-league",
+    "enhanced_repository_description": null,
+    "title": "Awesome League with stars"
+  }
+}
