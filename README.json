@@ -28,7 +28,7 @@
             "last_commit": "2026-07-03T13:44:32Z",
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1659
+            "stars": 1660
           }
         },
         {
@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:24:00Z",
+            "last_commit": "2026-08-13T15:23:33Z",
             "owner": "L9Lenny",
             "repo": "league_profile_tool",
             "stars": 30
@@ -432,7 +432,7 @@
             "last_commit": "2026-05-25T18:58:41Z",
             "owner": "BlossomiShymae",
             "repo": "Needlework.Net",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -471,7 +471,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2023-03-29T17:22:05Z",
+            "last_commit": "2026-08-13T18:42:06Z",
             "owner": "stirante",
             "repo": "lol-client-java-api",
             "stars": 71
@@ -586,7 +586,7 @@
             "last_commit": "2026-03-27T09:41:16Z",
             "owner": "rumi-chan",
             "repo": "league-client-mcp",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:40:14.474Z",
+    "last_updated": "2026-08-14T08:24:21.773Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",
