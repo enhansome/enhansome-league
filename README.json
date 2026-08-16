@@ -14,7 +14,7 @@
             "last_commit": "2026-04-17T12:51:41Z",
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1703
+            "stars": 1702
           }
         },
         {
@@ -193,10 +193,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:09:56Z",
+            "last_commit": "2026-08-15T18:30:45Z",
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:38:29.193Z",
+    "last_updated": "2026-08-16T07:39:57.099Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",
