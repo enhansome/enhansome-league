@@ -23,9 +23,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,702 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,701 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,662 | 🐛 5 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,663 | 🐛 5 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 4 | 🌐 Go | 📅 2026-08-13 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

@@ -14,7 +14,7 @@
             "last_commit": "2026-04-17T12:51:41Z",
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1702
+            "stars": 1701
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-03T13:44:32Z",
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1662
+            "stars": 1663
           }
         },
         {
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:39:57.099Z",
+    "last_updated": "2026-08-17T07:58:18.906Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",
