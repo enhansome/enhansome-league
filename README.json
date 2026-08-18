@@ -28,7 +28,7 @@
             "last_commit": "2026-07-03T13:44:32Z",
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1663
+            "stars": 1666
           }
         },
         {
@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T18:30:45Z",
+            "last_commit": "2026-08-17T15:25:58Z",
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 31
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:58:18.906Z",
+    "last_updated": "2026-08-18T07:49:26.811Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",
