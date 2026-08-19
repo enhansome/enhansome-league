@@ -25,7 +25,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,701 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,666 | 🐛 5 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,668 | 🐛 5 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 4 | 🌐 Go | 📅 2026-08-13 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 31 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-17 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 31 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-18 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -117,7 +117,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,014 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,013 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 289 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
@@ -125,7 +125,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Developer Tools
 
-* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 564 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
+* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 565 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 168 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
@@ -141,7 +141,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) ⚠️ Archived - An C# API wrapper for the League of Legends client.
 
-* [RitoClient](https://github.com/nomi-san/RitoClient) ⭐ 41 | 🐛 5 | 🌐 C# | 📅 2026-02-17 - Deep dive into your RiotClient.
+* [RitoClient](https://github.com/nomi-san/RitoClient) ⭐ 42 | 🐛 5 | 🌐 C# | 📅 2026-02-17 - Deep dive into your RiotClient.
 
 * [lcu-api](https://github.com/jjmaldonis/lcu-api) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2020-05-22 - A Python LCU wrapper.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
