@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T13:44:32Z",
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1668
+            "stars": 1669
           }
         },
         {
@@ -761,8 +761,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:50:05.791Z",
+    "last_updated": "2026-08-19T12:38:35.322Z",
     "original_repository": "CommunityDragon/awesome-league",
+    "original_repository_id": 184869339,
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",
     "enhanced_repository_description": null,
