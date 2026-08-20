@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T13:44:32Z",
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1669
+            "stars": 1672
           }
         },
         {
@@ -714,7 +714,7 @@
             "archived": false,
             "id": 611968088,
             "language": "Python",
-            "last_commit": "2023-12-03T09:40:09Z",
+            "last_commit": "2026-08-19T13:45:04Z",
             "owner": "0adri3n",
             "repo": "ratRequ3ster",
             "stars": 7
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:35.322Z",
+    "last_updated": "2026-08-20T07:51:52.007Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_id": 184869339,
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",

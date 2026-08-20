@@ -25,7 +25,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,701 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,669 | 🐛 5 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,672 | 🐛 5 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 4 | 🌐 Go | 📅 2026-08-13 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -163,7 +163,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [GlassLCU](https://github.com/pipe01/GlassLCU) ⭐ 8 | 🐛 3 | 🌐 C# | 📅 2022-12-08 - C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner.
 
-* [ratRequ3ster](https://github.com/akira-trinity/ratRequ3ster) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2023-12-03 - Python app to interact with LCU API.
+* [ratRequ3ster](https://github.com/akira-trinity/ratRequ3ster) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Python app to interact with LCU API.
 
 * [Rito](https://github.com/bartekprtc/rito) ⚠️ Archived - C++ set of utility classes for Riot API and LCU API connection.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
