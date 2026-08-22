@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T12:51:41Z",
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1701
+            "stars": 1700
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 1157833896,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:28:35Z",
+            "last_commit": "2026-08-21T15:24:29Z",
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 31
@@ -432,7 +432,7 @@
             "last_commit": "2023-03-03T05:40:03Z",
             "owner": "Pupix",
             "repo": "rift-explorer",
-            "stars": 565
+            "stars": 564
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2024-11-30T11:58:28Z",
             "owner": "sousa-andre",
             "repo": "lcu-driver",
-            "stars": 123
+            "stars": 122
           }
         },
         {
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:53:02.149Z",
+    "last_updated": "2026-08-22T07:39:50.371Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_id": 184869339,
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
