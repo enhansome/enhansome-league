@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T13:44:32Z",
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1674
+            "stars": 1677
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-01-08T19:39:25Z",
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1013
+            "stars": 1015
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2022-04-30T11:59:59Z",
             "owner": "SkinSpotlights",
             "repo": "CreatorSuite-ReplayAPI",
-            "stars": 93
+            "stars": 94
           }
         }
       ],
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:39:50.371Z",
+    "last_updated": "2026-08-23T07:43:19.933Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_id": 184869339,
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
