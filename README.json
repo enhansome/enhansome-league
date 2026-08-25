@@ -207,7 +207,7 @@
             "archived": false,
             "id": 1157833896,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:24:29Z",
+            "last_commit": "2026-08-24T15:26:00Z",
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 31
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:28.566Z",
+    "last_updated": "2026-08-25T06:16:42.125Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_id": 184869339,
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",

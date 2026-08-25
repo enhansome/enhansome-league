@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-21 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 31 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
