@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T12:51:41Z",
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1700
+            "stars": 1699
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 502505224,
             "language": "Go",
-            "last_commit": "2026-08-13T05:42:48Z",
+            "last_commit": "2026-08-26T04:44:25Z",
             "owner": "marvinscham",
             "repo": "disenchanter",
             "stars": 105
@@ -552,7 +552,7 @@
             "last_commit": "2026-02-17T12:50:04Z",
             "owner": "nomi-san",
             "repo": "RitoClient",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:54:03.380Z",
+    "last_updated": "2026-08-26T07:55:29.994Z",
     "original_repository": "CommunityDragon/awesome-league",
     "original_repository_id": 184869339,
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
