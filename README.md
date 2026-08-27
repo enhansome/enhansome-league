@@ -23,7 +23,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,699 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,700 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,677 | 🐛 7 | 🌐 C# | 📅 2026-07-03 - Masks your online status.
 
@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 31 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 32 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -117,7 +117,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,015 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,016 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 289 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
@@ -129,7 +129,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 168 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
-* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 160 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 161 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 122 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

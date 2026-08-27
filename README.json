@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T12:51:41Z",
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1699
+            "stars": 1700
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-24T15:26:00Z",
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-01-08T19:39:25Z",
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1015
+            "stars": 1016
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-05-25T18:58:41Z",
             "owner": "BlossomiShymae",
             "repo": "Needlework.Net",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -761,9 +761,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:55:29.994Z",
-    "original_repository": "CommunityDragon/awesome-league",
-    "original_repository_id": 184869339,
+    "last_updated": "2026-08-27T11:45:59.960Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 184869339,
+      "language": null,
+      "last_commit": "2026-07-30T19:02:16Z",
+      "owner": "CommunityDragon",
+      "repo": "awesome-league",
+      "stars": 660
+    },
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",
     "enhanced_repository_description": null,
