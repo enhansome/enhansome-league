@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 Yet another League of Legends helper",
+            "homepage": null,
             "id": 235523780,
             "language": "Rust",
+            "license": "LGPL-2.1",
             "last_commit": "2026-04-17T12:51:41Z",
+            "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1699
+            "stars": 1699,
+            "topics": [
+              "league-of-legends",
+              "windows-10",
+              "windows-11"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -26,12 +35,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎩 Appear offline for League of Legends, VALORANT, and Legends of Runeterra.",
+            "homepage": null,
             "id": 87290316,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-03T13:44:32Z",
+            "open_issues": 9,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1677
+            "stars": 1677,
+            "topics": [
+              "deceive",
+              "friends",
+              "game",
+              "league",
+              "league-of-legends",
+              "leagueoflegends",
+              "legends-of-runeterra",
+              "lol",
+              "lor",
+              "mobile",
+              "offline",
+              "valorant"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -42,12 +69,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to mass disenchant champion shards and other League of Legends loot.",
+            "homepage": null,
             "id": 502505224,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:44:25Z",
+            "open_issues": 5,
             "owner": "marvinscham",
             "repo": "disenchanter",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "crafting",
+              "disenchanter",
+              "golang",
+              "hextech",
+              "lcu",
+              "league-client",
+              "league-of-legends"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -58,12 +98,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 Arcane Rune Pages manager for League of Legends 📜",
+            "homepage": null,
             "id": 212800187,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-19T06:47:39Z",
+            "open_issues": 20,
             "owner": "Soundofdarkness",
             "repo": "RuneBook",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "lcu-api",
+              "league-of-legends"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -74,12 +122,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An automation app for League of Legends",
+            "homepage": null,
             "id": 145736569,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2022-12-08T09:27:50Z",
+            "open_issues": 20,
             "owner": "pipe01",
             "repo": "legendary-rune-maker",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "automatic",
+              "automation",
+              "csharp",
+              "lcu",
+              "league-of-legends",
+              "leagueoflegends",
+              "lol",
+              "runes"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -90,12 +152,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RuneChanger is an app that improves and speeds up the use of LoL client.",
+            "homepage": "https://runechanger.stirante.com/",
             "id": 129503778,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-14T18:13:28Z",
+            "open_issues": 23,
             "owner": "stirante",
             "repo": "RuneChanger",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "champion-selection",
+              "hacktoberfest",
+              "java",
+              "javafx",
+              "league-of-legends",
+              "lol-client",
+              "runechanger",
+              "runes"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -106,12 +182,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform desktop app with many League Client exploits (e.g profile customization)",
+            "homepage": null,
             "id": 307498322,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T19:32:12Z",
+            "open_issues": 2,
             "owner": "7rebux",
             "repo": "league-tools",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "lcu",
+              "lcu-api",
+              "league-of-legends",
+              "riot-games"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -122,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your League of Legends keybindings!",
+            "homepage": null,
             "id": 161224095,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-04-23T15:54:11Z",
+            "open_issues": 10,
             "owner": "s-coimbra21",
             "repo": "dark-binding-gui",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -138,12 +229,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Record League of Legends games",
+            "homepage": null,
             "id": 475246960,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-15T01:10:41Z",
+            "open_issues": 2,
             "owner": "FFFFFFFXXXXXXX",
             "repo": "league_record",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "league",
+              "league-of-legends",
+              "leagueoflegends",
+              "legends",
+              "lol",
+              "of",
+              "record",
+              "replay"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -154,12 +259,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":eyes: Native notifications for League of Legends",
+            "homepage": null,
             "id": 115368188,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-18T11:59:32Z",
+            "open_issues": 1,
             "owner": "molenzwiebel",
             "repo": "Sentinel",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "lcu",
+              "league",
+              "leagueoflegends",
+              "legends",
+              "lol",
+              "notifications",
+              "of",
+              "sentinel",
+              "toast",
+              "windows",
+              "windows10"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -170,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 230346007,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-04-27T10:21:52Z",
+            "open_issues": 0,
             "owner": "MaciejGorczyca",
             "repo": "League-Unglitch",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -186,12 +313,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lytical is an open source League of Legends statistics and profile analytics tool for all regions including Garena & WeGame",
+            "homepage": "https://lytical.app/",
             "id": 513359053,
             "language": "Vue",
+            "license": "GPL-2.0",
             "last_commit": "2024-01-20T05:09:03Z",
+            "open_issues": 7,
             "owner": "LyticalApp",
             "repo": "Lytical",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "china-opgg",
+              "electron",
+              "garena",
+              "garena-opgg",
+              "garena-ugg",
+              "gplv2",
+              "lcu-api",
+              "league",
+              "league-api",
+              "league-client",
+              "league-client-api",
+              "league-of-legends",
+              "league-of-legends-api",
+              "lol",
+              "lytical",
+              "lytical-app",
+              "lytical-lol",
+              "opgg-garena",
+              "wegame",
+              "wegame-api"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -202,12 +355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protecting you from yourself",
+            "homepage": null,
             "id": 167295614,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T03:58:19Z",
+            "open_issues": 5,
             "owner": "YasuNO-LLC",
             "repo": "YasuNO",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -218,12 +376,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hextech-inspired tool for League of Legends profile customization. Built with Tauri v2 & React. Features real-time LCU sync, custom status management, and automated updates.",
+            "homepage": null,
             "id": 1157833896,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:24:14Z",
+            "open_issues": 5,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "desktop-app",
+              "hextech-ui",
+              "lcu-api",
+              "league-of-legends",
+              "league-profile-editor",
+              "leagueoflegends",
+              "lol",
+              "profile-editor",
+              "react",
+              "tauri-app"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -234,12 +408,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mute: Mute the PHOOOOOOM after accepting queue.",
+            "homepage": null,
             "id": 185625096,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-08T13:51:17Z",
+            "open_issues": 0,
             "owner": "molenzwiebel",
             "repo": "Crescendo",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "csharp",
+              "lcu",
+              "lcu-api",
+              "league-of-legends",
+              "leagueoflegends",
+              "mute",
+              "ready-check"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -250,12 +437,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "League of Legends Icon Setter [OBSOLETE]",
+            "homepage": null,
             "id": 200293203,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-20T19:56:37Z",
+            "open_issues": 1,
             "owner": "Adaliciously",
             "repo": "lolav",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "lcu",
+              "lcu-api",
+              "league-client",
+              "league-of-legends",
+              "leagueoflegends",
+              "lol"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -266,12 +465,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preview League of Legends Summoner Icons, Emotes, and others.",
+            "homepage": "https://league-fan-github-io.pages.dev/",
             "id": 432161831,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-07-27T07:00:09Z",
+            "open_issues": 1,
             "owner": "league-fan",
             "repo": "league-fan.github.io",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "league-of-legends",
+              "nextjs",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -282,12 +490,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "League of Legends Friend List Exporter using League Client API (LCU)",
+            "homepage": "https://github.com/ulgg/ancient-chimes/releases",
             "id": 166593083,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-02T00:56:51Z",
+            "open_issues": 1,
             "owner": "ulgg",
             "repo": "ancient-chimes",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "bootstrap",
+              "cef",
+              "chromium-embedded-framework",
+              "downloader",
+              "electron",
+              "electron-builder",
+              "exporter",
+              "friendlist",
+              "html",
+              "http",
+              "lcu",
+              "league-of-legends",
+              "lol",
+              "node",
+              "riot-api",
+              "visual-studio-code",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -298,12 +529,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NativePHP app to customize League of Legends profile backgrounds using LCU API. ",
+            "homepage": null,
             "id": 840969714,
             "language": "PHP",
+            "license": null,
             "last_commit": "2025-06-23T10:45:40Z",
+            "open_issues": 1,
             "owner": "rico-vz",
             "repo": "Hweis-Brush",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "lcu",
+              "lcu-api",
+              "league",
+              "league-of-legends",
+              "leagueoflegends",
+              "lol",
+              "native-php",
+              "nativephp",
+              "riot-games"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -314,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project that integrates the LoL client with our external program to track user achievements",
+            "homepage": null,
             "id": 162759874,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-02-09T21:31:00Z",
+            "open_issues": 0,
             "owner": "afieldi",
             "repo": "2018-Riot-API-Challenge",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -330,12 +581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A calculator for league of legends passes",
+            "homepage": null,
             "id": 200479163,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-12-08T05:54:56Z",
+            "open_issues": 1,
             "owner": "Fumi24",
             "repo": "PassCalc",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -346,12 +602,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A league of legends runes Importer",
+            "homepage": null,
             "id": 375253688,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-07-12T18:15:56Z",
+            "open_issues": 0,
             "owner": "Ponita0",
             "repo": "LickMyRunes",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "league",
+              "league-of-legends",
+              "leagueoflegends",
+              "lol",
+              "runes"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -362,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 162695461,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2019-01-25T18:12:19Z",
+            "open_issues": 0,
             "owner": "TiFu",
             "repo": "riot-api-challenge-2018",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -378,12 +650,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A League Of Legends overlay to play Youtube videos in-game. Based on Overwolf Electron App.",
+            "homepage": null,
             "id": 1091805709,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-11T19:32:57Z",
+            "open_issues": 0,
             "owner": "0adri3n",
             "repo": "ytLegends",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "lol",
+              "overlay",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         }
@@ -400,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "League Director is a tool for staging and recording videos from League of Legends replays",
+            "homepage": null,
             "id": 169445376,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-08T19:39:25Z",
+            "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1016
+            "stars": 1016,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -416,12 +702,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web-Based UI to display the league of legends champ select in esports tournaments.",
+            "homepage": null,
             "id": 207731822,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-21T09:13:06Z",
+            "open_issues": 24,
             "owner": "RCVolus",
             "repo": "lol-pick-ban-ui",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "broadcast",
+              "champ-select",
+              "graphics",
+              "league",
+              "league-of-legends",
+              "pick-ban"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -432,12 +730,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Creator Suite powered by Riots Replay API.",
+            "homepage": null,
             "id": 186700296,
             "language": null,
+            "license": null,
             "last_commit": "2022-04-30T11:59:59Z",
+            "open_issues": 13,
             "owner": "SkinSpotlights",
             "repo": "CreatorSuite-ReplayAPI",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         }
@@ -454,12 +757,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠 Explore the API of the League of Legends client",
+            "homepage": null,
             "id": 61751916,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-03-03T05:40:03Z",
+            "open_issues": 15,
             "owner": "Pupix",
             "repo": "rift-explorer",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -470,12 +778,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":electric_plug: Node.js HTTP/1.1, HTTP/2.0 and WebSocket interface to the League of Legends Client APIs",
+            "homepage": "https://www.npmjs.com/package/league-connect",
             "id": 192112405,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-31T19:31:58Z",
+            "open_issues": 14,
             "owner": "junlarsen",
             "repo": "league-connect",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "lcu",
+              "league",
+              "league-client",
+              "league-client-apis",
+              "league-of-legends",
+              "node",
+              "riot-api",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -486,12 +808,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪡 A .NET helper development tool for the LCU and Game Client! ",
+            "homepage": null,
             "id": 836522151,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-25T18:58:41Z",
+            "open_issues": 2,
             "owner": "BlossomiShymae",
             "repo": "Needlework.Net",
-            "stars": 161
+            "stars": 162,
+            "topics": [
+              "ingame-api",
+              "lcu",
+              "lcu-api",
+              "lcuapi",
+              "league-of-legends",
+              "riot-games",
+              "riot-games-api"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -502,12 +837,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐍 Python3 interface for League of Legends Client API",
+            "homepage": null,
             "id": 185263862,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-30T11:58:28Z",
+            "open_issues": 6,
             "owner": "sousa-andre",
             "repo": "lcu-driver",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "lcu-api",
+              "league-of-legends",
+              "python",
+              "riot-games"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -518,12 +863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔌 Streamlined LCU integration for your app.",
+            "homepage": null,
             "id": 113793266,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-23T07:20:08Z",
+            "open_issues": 13,
             "owner": "Pupix",
             "repo": "lcu-connector",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -534,12 +884,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple library which provides access to internal League of Legends Client API.",
+            "homepage": null,
             "id": 101484826,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-13T18:42:06Z",
+            "open_issues": 7,
             "owner": "stirante",
             "repo": "lol-client-java-api",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "internal-league",
+              "java",
+              "league",
+              "league-of-legends",
+              "legends-client"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -550,12 +911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON event viewer for the LCU",
+            "homepage": null,
             "id": 147751006,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-01-23T17:39:12Z",
+            "open_issues": 2,
             "owner": "pipe01",
             "repo": "lcu-event-viewer",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -566,12 +932,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An API wrapper for the League of Legends client.",
+            "homepage": null,
             "id": 162781540,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-07-17T03:03:57Z",
+            "open_issues": 2,
             "owner": "bryanhitc",
             "repo": "lcu-sharp",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "league-of-legends",
+              "riot-api",
+              "riot-games",
+              "riot-games-api"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -582,12 +958,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤿 Deep dive into your RiotClient UX",
+            "homepage": null,
             "id": 682546912,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-02-17T12:50:04Z",
+            "open_issues": 5,
             "owner": "nomi-san",
             "repo": "RitoClient",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "devtools",
+              "injector",
+              "lcu-api",
+              "league-of-legends",
+              "riot-client",
+              "riot-games",
+              "riotclient"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -598,12 +987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 191663495,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-22T01:57:19Z",
+            "open_issues": 4,
             "owner": "jjmaldonis",
             "repo": "lcu-api",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -614,12 +1008,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A league of legends LCU library ",
+            "homepage": null,
             "id": 380516587,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-05-30T06:37:56Z",
+            "open_issues": 2,
             "owner": "Ponita0",
             "repo": "PoniLCU",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "lcu",
+              "lcu-api",
+              "league-of-legends",
+              "league-of-legends-api",
+              "leagueoflegends"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -630,12 +1035,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " LCU API wrapper for League of Legends",
+            "homepage": null,
             "id": 615896088,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-06T01:43:29Z",
+            "open_issues": 2,
             "owner": "cuppachino",
             "repo": "hexgate",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "esm",
+              "hexgate",
+              "javascript",
+              "lcu",
+              "lcu-api",
+              "league-of-legends",
+              "node-esm",
+              "nodenext",
+              "riot-games",
+              "riot-games-api",
+              "typescript",
+              "typescript-library"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -646,12 +1069,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Allow debugging LCU API calls via Fiddler",
+            "homepage": null,
             "id": 383880443,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-05-17T12:59:19Z",
+            "open_issues": 0,
             "owner": "dragitz",
             "repo": "simple-debugger",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "debugger",
+              "lcu-api",
+              "league-client",
+              "league-client-api"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -662,12 +1095,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect Claude, Antigravity to League Client via MCP & Pengu Loader.",
+            "homepage": null,
             "id": 1163934350,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-27T09:41:16Z",
+            "open_issues": 0,
             "owner": "rumi-chan",
             "repo": "league-client-mcp",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "league-of-legends",
+              "mcp",
+              "pengu-loader"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -678,12 +1120,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small library to automatically retrieve port and auth-token of the league of legends client",
+            "homepage": null,
             "id": 646112874,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-27T21:45:45Z",
+            "open_issues": 0,
             "owner": "ImOlli",
             "repo": "go-lcu",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "api",
+              "lcu",
+              "league",
+              "leagueoflegends"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -694,12 +1146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 377431427,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-10-24T20:17:28Z",
+            "open_issues": 0,
             "owner": "sxnney",
             "repo": "lcu-events",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -710,12 +1167,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer data with the LCU in the command-line interface! 🖥",
+            "homepage": null,
             "id": 660904201,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-21T16:45:33Z",
+            "open_issues": 0,
             "owner": "BlossomiShymae",
             "repo": "llux",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "lcu",
+              "lcu-api"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -726,12 +1191,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple wrapper for the League Client and Game Client APIs.",
+            "homepage": null,
             "id": 834382849,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-07-05T19:08:37Z",
+            "open_issues": 0,
             "owner": "BlossomiShymae",
             "repo": "Briar",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ingame-api",
+              "lcu",
+              "lcu-api",
+              "league-of-legends"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -742,12 +1217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically-generating LCU API for C#",
+            "homepage": null,
             "id": 162838360,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T03:51:39Z",
+            "open_issues": 3,
             "owner": "pipe01",
             "repo": "GlassLCU",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -758,12 +1238,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A software designed to interact with LCU API (League Of Legends API)",
+            "homepage": null,
             "id": 611968088,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T13:45:04Z",
+            "open_issues": 0,
             "owner": "0adri3n",
             "repo": "ratRequ3ster",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "gui",
+              "lcu-api",
+              "league-of-legends",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -774,12 +1264,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, crossplatform C++20 library for League of Legends client and Riot API",
+            "homepage": null,
             "id": 703208199,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-11-11T19:39:21Z",
+            "open_issues": 0,
             "owner": "bartekjaszczak",
             "repo": "rito",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cmake",
+              "cpp",
+              "cpp20",
+              "lcu",
+              "lcu-api",
+              "league-of-legends",
+              "lib",
+              "library",
+              "rest-api",
+              "riot",
+              "riot-api",
+              "riot-games-api"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         }
@@ -796,12 +1304,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Action to grab the latest League of Legends patch from Data Dragon",
+            "homepage": null,
             "id": 519724993,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-02-29T20:21:37Z",
+            "open_issues": 0,
             "owner": "marvinscham",
             "repo": "get-league-patch",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "action",
+              "data-dragon",
+              "github-actions",
+              "league-of-legends"
+            ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         }
@@ -810,15 +1328,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:24:02.461Z",
+    "last_updated": "2026-08-29T04:39:23.425Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of apps that work with the League of Legends Client & In-Game API.",
+      "homepage": null,
       "id": 184869339,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-30T19:02:16Z",
+      "open_issues": 4,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 660
+      "stars": 660,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lcu",
+        "league-client",
+        "league-of-legends"
+      ]
     },
     "original_repository_sha": "4384ac39c4ebc56898cc8745a481828d183edf90",
     "enhanced_repository": "enhansome/enhansome-league",
