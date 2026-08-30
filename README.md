@@ -39,7 +39,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
-* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2026-05-15 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
+* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 49 | 🐛 2 | 🌐 Rust | 📅 2026-05-15 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
 
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) ⭐ 47 | 🐛 1 | 🌐 C# | 📅 2020-09-18 - Enables the use of Windows 10 notifications to show alerts from the client.
 
@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 32 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-28 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-29 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -117,7 +117,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,016 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,015 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 289 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
