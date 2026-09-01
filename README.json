@@ -381,8 +381,8 @@
             "id": 1157833896,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T23:17:41Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-31T15:26:52Z",
+            "open_issues": 9,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 33,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:02:14.015Z",
+    "last_updated": "2026-09-01T12:31:48.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
