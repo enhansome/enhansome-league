@@ -44,7 +44,7 @@
             "open_issues": 2,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1679,
+            "stars": 1680,
             "topics": [
               "deceive",
               "friends",
@@ -381,8 +381,8 @@
             "id": 1157833896,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T22:25:56Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-02T19:46:17Z",
+            "open_issues": 6,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 34,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:04:45.868Z",
+    "last_updated": "2026-09-03T12:03:47.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
