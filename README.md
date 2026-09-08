@@ -25,7 +25,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,699 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,689 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,691 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 5 | 🌐 Go | 📅 2026-08-26 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 37 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-07 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 38 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-07 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -147,11 +147,11 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [PoniLCU](https://github.com/Ponita0/PoniLCU) ⭐ 21 | 🐛 2 | 🌐 C# | 📅 2022-05-30 - C# Library for interacting with the LCU APIs.
 
+* [league-client-mcp](https://github.com/rumi-chan/league-client-mcp) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-27 - Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.
+
 * [hexgate](https://github.com/cuppachino/hexgate) ⭐ 21 | 🐛 2 | 🌐 TypeScript | 📅 2023-12-06 - A TypeScript LCU wrapper available on NPM.
 
 * [simple-debugger](https://github.com/dragitz/simple-debugger) ⚠️ Archived - Debug client API calls via Fiddler.
-
-* [league-client-mcp](https://github.com/rumi-chan/league-client-mcp) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-27 - Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.
 
 * [go-lcu](https://github.com/ImOlli/go-lcu) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2023-10-27 - Go Library to automatically retrieve the port and token of the LCU and wrap it behind a reverse proxy.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

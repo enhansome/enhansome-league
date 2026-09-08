@@ -44,7 +44,7 @@
             "open_issues": 3,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1689,
+            "stars": 1691,
             "topics": [
               "deceive",
               "friends",
@@ -385,7 +385,7 @@
             "open_issues": 9,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "desktop-app",
               "hextech-ui",
@@ -1030,6 +1030,31 @@
         },
         {
           "node_type": "item",
+          "title": "league-client-mcp",
+          "description": "Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Connect Claude, Antigravity to League Client via MCP & Pengu Loader.",
+            "homepage": null,
+            "id": 1163934350,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-03-27T09:41:16Z",
+            "open_issues": 0,
+            "owner": "rumi-chan",
+            "repo": "league-client-mcp",
+            "stars": 21,
+            "topics": [
+              "league-of-legends",
+              "mcp",
+              "pengu-loader"
+            ]
+          },
+          "first_seen": "2026-08-28T19:24:02.461Z"
+        },
+        {
+          "node_type": "item",
           "title": "hexgate",
           "description": "A TypeScript LCU wrapper available on NPM.",
           "children": [],
@@ -1084,31 +1109,6 @@
               "lcu-api",
               "league-client",
               "league-client-api"
-            ]
-          },
-          "first_seen": "2026-08-28T19:24:02.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "league-client-mcp",
-          "description": "Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Connect Claude, Antigravity to League Client via MCP & Pengu Loader.",
-            "homepage": null,
-            "id": 1163934350,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-03-27T09:41:16Z",
-            "open_issues": 0,
-            "owner": "rumi-chan",
-            "repo": "league-client-mcp",
-            "stars": 20,
-            "topics": [
-              "league-of-legends",
-              "mcp",
-              "pengu-loader"
             ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:28:14.744Z",
+    "last_updated": "2026-09-08T12:06:41.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 4,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 663,
+      "stars": 664,
       "topics": [
         "awesome",
         "awesome-list",
