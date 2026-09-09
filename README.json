@@ -41,10 +41,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-09-01T16:30:51Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1691,
+            "stars": 1693,
             "topics": [
               "deceive",
               "friends",
@@ -74,8 +74,8 @@
             "id": 502505224,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-26T04:44:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-09T08:51:32Z",
+            "open_issues": 4,
             "owner": "marvinscham",
             "repo": "disenchanter",
             "stars": 105,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:06:41.827Z",
+    "last_updated": "2026-09-09T12:18:00.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1337,7 +1337,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-30T19:02:16Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
       "stars": 664,
