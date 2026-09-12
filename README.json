@@ -44,7 +44,7 @@
             "open_issues": 4,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1696,
+            "stars": 1697,
             "topics": [
               "deceive",
               "friends",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:10:12.336Z",
+    "last_updated": "2026-09-12T11:34:50.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 5,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 665,
+      "stars": 666,
       "topics": [
         "awesome",
         "awesome-list",
