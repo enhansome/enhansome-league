@@ -5,6 +5,40 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Deceive",
+          "description": "Masks your online status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🎩 Appear offline for League of Legends, VALORANT, and Legends of Runeterra.",
+            "homepage": null,
+            "id": 87290316,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-01T16:30:51Z",
+            "open_issues": 4,
+            "owner": "molenzwiebel",
+            "repo": "Deceive",
+            "stars": 1700,
+            "topics": [
+              "deceive",
+              "friends",
+              "game",
+              "league",
+              "league-of-legends",
+              "leagueoflegends",
+              "legends-of-runeterra",
+              "lol",
+              "lor",
+              "mobile",
+              "offline",
+              "valorant"
+            ]
+          },
+          "first_seen": "2026-08-28T19:24:02.461Z"
+        },
+        {
+          "node_type": "item",
           "title": "ChampR",
           "description": "Allows auto generate recommend champion builds and popup runes list and apply on the fly.",
           "children": [],
@@ -24,40 +58,6 @@
               "league-of-legends",
               "windows-10",
               "windows-11"
-            ]
-          },
-          "first_seen": "2026-08-28T19:24:02.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Deceive",
-          "description": "Masks your online status.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🎩 Appear offline for League of Legends, VALORANT, and Legends of Runeterra.",
-            "homepage": null,
-            "id": 87290316,
-            "language": "C#",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-01T16:30:51Z",
-            "open_issues": 4,
-            "owner": "molenzwiebel",
-            "repo": "Deceive",
-            "stars": 1698,
-            "topics": [
-              "deceive",
-              "friends",
-              "game",
-              "league",
-              "league-of-legends",
-              "leagueoflegends",
-              "legends-of-runeterra",
-              "lol",
-              "lor",
-              "mobile",
-              "offline",
-              "valorant"
             ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -381,11 +381,11 @@
             "id": 1157833896,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T15:19:32Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-14T07:35:51Z",
+            "open_issues": 10,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "desktop-app",
               "hextech-ui",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:41:45.341Z",
+    "last_updated": "2026-09-14T13:56:20.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
