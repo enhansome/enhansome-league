@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1700,
+            "stars": 1701,
             "topics": [
               "deceive",
               "friends",
@@ -787,7 +787,7 @@
             "open_issues": 14,
             "owner": "junlarsen",
             "repo": "league-connect",
-            "stars": 168,
+            "stars": 167,
             "topics": [
               "lcu",
               "league",
@@ -1273,7 +1273,7 @@
             "open_issues": 0,
             "owner": "bartekjaszczak",
             "repo": "rito",
-            "stars": 4,
+            "stars": 3,
             "topics": [
               "cmake",
               "cpp",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T13:56:20.283Z",
+    "last_updated": "2026-09-15T12:37:47.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 5,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 666,
+      "stars": 665,
       "topics": [
         "awesome",
         "awesome-list",
