@@ -23,13 +23,13 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,701 | 🐛 4 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,703 | 🐛 4 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,698 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 5 | 🌐 Go | 📅 2026-09-10 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
-* [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 98 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
+* [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 97 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) ⭐ 85 | 🐛 20 | 🌐 C# | 📅 2022-12-08 - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
