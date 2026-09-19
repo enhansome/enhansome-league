@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1706,
+            "stars": 1707,
             "topics": [
               "deceive",
               "friends",
@@ -1103,7 +1103,7 @@
             "open_issues": 0,
             "owner": "dragitz",
             "repo": "simple-debugger",
-            "stars": 20,
+            "stars": 19,
             "topics": [
               "debugger",
               "lcu-api",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:12:05.742Z",
+    "last_updated": "2026-09-19T11:54:26.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
