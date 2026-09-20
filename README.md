@@ -31,13 +31,13 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 97 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
 
-* [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) ⭐ 85 | 🐛 20 | 🌐 C# | 📅 2022-12-08 - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
+* [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) ⭐ 85 | 🐛 19 | 🌐 C# | 📅 2022-12-08 - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 23 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
 * [League Tools](https://github.com/7rebux/league-tools) ⭐ 72 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
-* [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
+* [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
 * [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 49 | 🐛 1 | 🌐 Rust | 📅 2026-05-15 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

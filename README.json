@@ -128,7 +128,7 @@
             "language": "C#",
             "license": "MPL-2.0",
             "last_commit": "2022-12-08T09:27:50Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "pipe01",
             "repo": "legendary-rune-maker",
             "stars": 85,
@@ -214,7 +214,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2024-04-23T15:54:11Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "s-coimbra21",
             "repo": "dark-binding-gui",
             "stars": 52,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:54:26.672Z",
+    "last_updated": "2026-09-20T12:15:41.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1337,10 +1337,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-30T19:02:16Z",
-      "open_issues": 5,
+      "open_issues": 7,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 664,
+      "stars": 663,
       "topics": [
         "awesome",
         "awesome-list",
