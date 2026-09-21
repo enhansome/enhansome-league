@@ -23,7 +23,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,707 | 🐛 4 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,710 | 🐛 4 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,697 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
@@ -35,7 +35,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 23 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
-* [League Tools](https://github.com/7rebux/league-tools) ⭐ 72 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
+* [League Tools](https://github.com/7rebux/league-tools) ⭐ 73 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 39 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-16 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 39 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-21 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -125,7 +125,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Developer Tools
 
-* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 565 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
+* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 566 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 167 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
