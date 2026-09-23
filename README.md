@@ -23,9 +23,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,710 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,712 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,697 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,696 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 5 | 🌐 Go | 📅 2026-09-10 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -133,7 +133,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 122 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
-* [lcu-connector](https://github.com/Pupix/lcu-connector) ⭐ 117 | 🐛 13 | 🌐 JavaScript | 📅 2023-11-23 - NPM Module to connect to the LCU automatically.
+* [lcu-connector](https://github.com/Pupix/lcu-connector) ⭐ 117 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22 - NPM Module to connect to the LCU automatically.
 
 * [lol-client-java-api](https://github.com/stirante/lol-client-java-api) ⭐ 71 | 🐛 7 | 🌐 Java | 📅 2026-08-13 - Java library for connecting to LCU through API and websocket.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
