@@ -141,7 +141,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) ⚠️ Archived - An C# API wrapper for the League of Legends client.
 
-* [RitoClient](https://github.com/nomi-san/RitoClient) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2026-02-17 - Deep dive into your RiotClient.
+* [RitoClient](https://github.com/nomi-san/RitoClient) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2026-02-17 - Deep dive into your RiotClient.
 
 * [lcu-api](https://github.com/jjmaldonis/lcu-api) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2020-05-22 - A Python LCU wrapper.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
