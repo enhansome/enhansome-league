@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 39 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-21 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 40 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-28 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -117,7 +117,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,020 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,021 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 289 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
@@ -129,7 +129,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 167 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
-* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 163 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 164 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 122 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
