@@ -23,7 +23,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,716 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,718 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,695 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
@@ -69,7 +69,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2019-01-25 - Creates your personalized trophy wall based on completed challenges.
 
-* [ytLegends](https://github.com/0adri3n/ytLegends) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-11 - A League Of Legends overlay to play YouTube videos in-game.
+* [ytLegends](https://github.com/0adri3n/ytLegends) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-11 - A League Of Legends overlay to play YouTube videos in-game.
 
 * [ARAM Zone](https://aram.zone/) - ARAM-focused website that provides many detailed builds for each champion, tierlist and match history.
 
@@ -117,7 +117,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,021 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,022 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 289 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
@@ -127,13 +127,13 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 567 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
 
-* [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 167 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
+* [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 166 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
-* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 164 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 163 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 122 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
-* [lcu-connector](https://github.com/Pupix/lcu-connector) ⭐ 117 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22 - NPM Module to connect to the LCU automatically.
+* [lcu-connector](https://github.com/Pupix/lcu-connector) ⭐ 116 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22 - NPM Module to connect to the LCU automatically.
 
 * [lol-client-java-api](https://github.com/stirante/lol-client-java-api) ⭐ 71 | 🐛 7 | 🌐 Java | 📅 2026-08-13 - Java library for connecting to LCU through API and websocket.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
