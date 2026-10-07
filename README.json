@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1724,
+            "stars": 1722,
             "topics": [
               "deceive",
               "friends",
@@ -74,7 +74,7 @@
             "id": 502505224,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T09:09:56Z",
+            "last_commit": "2026-10-07T10:56:44Z",
             "open_issues": 5,
             "owner": "marvinscham",
             "repo": "disenchanter",
@@ -711,7 +711,7 @@
             "open_issues": 24,
             "owner": "RCVolus",
             "repo": "lol-pick-ban-ui",
-            "stars": 289,
+            "stars": 288,
             "topics": [
               "broadcast",
               "champ-select",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:08:06.942Z",
+    "last_updated": "2026-10-07T14:26:33.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
