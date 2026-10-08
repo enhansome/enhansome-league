@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:26:33.874Z",
+    "last_updated": "2026-10-08T14:31:59.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 9,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 663,
+      "stars": 664,
       "topics": [
         "awesome",
         "awesome-list",
