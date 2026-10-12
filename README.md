@@ -23,11 +23,11 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,725 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,727 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,695 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,694 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
-* [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 105 | 🐛 5 | 🌐 Go | 📅 2026-10-07 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
+* [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-10-07 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 97 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
 
@@ -39,7 +39,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
-* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 49 | 🐛 1 | 🌐 Rust | 📅 2026-05-15 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
+* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 48 | 🐛 1 | 🌐 Rust | 📅 2026-05-15 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
 
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) ⭐ 47 | 🐛 1 | 🌐 C# | 📅 2020-09-18 - Enables the use of Windows 10 notifications to show alerts from the client.
 
@@ -49,7 +49,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 40 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-05 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 40 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-11 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

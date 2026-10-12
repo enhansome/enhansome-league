@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1725,
+            "stars": 1727,
             "topics": [
               "deceive",
               "friends",
@@ -53,7 +53,7 @@
             "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "league-of-legends",
               "windows-10",
@@ -78,7 +78,7 @@
             "open_issues": 5,
             "owner": "marvinscham",
             "repo": "disenchanter",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "crafting",
               "disenchanter",
@@ -238,7 +238,7 @@
             "open_issues": 1,
             "owner": "FFFFFFFXXXXXXX",
             "repo": "league_record",
-            "stars": 49,
+            "stars": 48,
             "topics": [
               "league",
               "league-of-legends",
@@ -377,12 +377,12 @@
           "repo_info": {
             "archived": false,
             "description": "Hextech-inspired tool for League of Legends profile customization. Built with Tauri v2 & React. Features real-time LCU sync, custom status management, and automated updates.",
-            "homepage": null,
+            "homepage": "https://lenny-ts.github.io/league_profile_tool/",
             "id": 1157833896,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T07:19:46Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-11T21:55:54Z",
+            "open_issues": 2,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 40,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:57:17.573Z",
+    "last_updated": "2026-10-12T16:40:53.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
