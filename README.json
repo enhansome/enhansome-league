@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1727,
+            "stars": 1728,
             "topics": [
               "deceive",
               "friends",
@@ -53,7 +53,7 @@
             "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1694,
+            "stars": 1693,
             "topics": [
               "league-of-legends",
               "windows-10",
@@ -381,8 +381,8 @@
             "id": 1157833896,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T21:55:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-12T22:13:23Z",
+            "open_issues": 9,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 40,
@@ -817,7 +817,7 @@
             "open_issues": 2,
             "owner": "BlossomiShymae",
             "repo": "Needlework.Net",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "ingame-api",
               "lcu",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:40:53.683Z",
+    "last_updated": "2026-10-13T14:57:45.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
