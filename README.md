@@ -47,7 +47,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Lytical](https://github.com/LyticalApp/Lytical) ⭐ 45 | 🐛 7 | 🌐 Vue | 📅 2024-01-20 - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
-* [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
+* [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
 * [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 40 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-12 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
@@ -127,9 +127,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 567 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
 
-* [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 165 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
 
-* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 164 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
+* [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 123 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
