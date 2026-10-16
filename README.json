@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "deceive",
               "friends",
@@ -773,35 +773,6 @@
         },
         {
           "node_type": "item",
-          "title": "Needlework.Net",
-          "description": "A helper development tool and explorer for the LCU.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🪡 A .NET helper development tool for the LCU and Game Client! ",
-            "homepage": null,
-            "id": 836522151,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-05-25T18:58:41Z",
-            "open_issues": 2,
-            "owner": "BlossomiShymae",
-            "repo": "Needlework.Net",
-            "stars": 165,
-            "topics": [
-              "ingame-api",
-              "lcu",
-              "lcu-api",
-              "lcuapi",
-              "league-of-legends",
-              "riot-games",
-              "riot-games-api"
-            ]
-          },
-          "first_seen": "2026-08-28T19:24:02.461Z"
-        },
-        {
-          "node_type": "item",
           "title": "LeagueConnect",
           "description": "NPM Module to get the LCU credentials and connect to the websocket.",
           "children": [],
@@ -826,6 +797,35 @@
               "node",
               "riot-api",
               "websockets"
+            ]
+          },
+          "first_seen": "2026-08-28T19:24:02.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Needlework.Net",
+          "description": "A helper development tool and explorer for the LCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🪡 A .NET helper development tool for the LCU and Game Client! ",
+            "homepage": null,
+            "id": 836522151,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-05-25T18:58:41Z",
+            "open_issues": 2,
+            "owner": "BlossomiShymae",
+            "repo": "Needlework.Net",
+            "stars": 163,
+            "topics": [
+              "ingame-api",
+              "lcu",
+              "lcu-api",
+              "lcuapi",
+              "league-of-legends",
+              "riot-games",
+              "riot-games-api"
             ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:36:42.323Z",
+    "last_updated": "2026-10-16T12:19:01.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 9,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 665,
+      "stars": 663,
       "topics": [
         "awesome",
         "awesome-list",
