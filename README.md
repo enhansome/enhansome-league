@@ -23,9 +23,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,731 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,732 | 🐛 4 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,691 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,690 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-10-07 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -139,9 +139,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) ⭐ 51 | 🐛 2 | 🌐 C# | 📅 2019-01-23 - View and record events that the LCU sends through WebSockets.
 
-* [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) ⚠️ Archived - An C# API wrapper for the League of Legends client.
-
 * [RitoClient](https://github.com/nomi-san/RitoClient) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2026-02-17 - Deep dive into your RiotClient.
+
+* [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) ⚠️ Archived - An C# API wrapper for the League of Legends client.
 
 * [lcu-api](https://github.com/jjmaldonis/lcu-api) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2020-05-22 - A Python LCU wrapper.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
