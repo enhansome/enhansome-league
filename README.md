@@ -35,7 +35,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 23 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
-* [League Tools](https://github.com/7rebux/league-tools) ⭐ 73 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
+* [League Tools](https://github.com/7rebux/league-tools) ⭐ 74 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
@@ -55,7 +55,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LolAV](https://github.com/PixelHir/lolav) ⚠️ Archived - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
 
-* [League Fan](https://github.com/league-fan/league-fan.github.io) ⭐ 11 | 🐛 1 | 🌐 Vue | 📅 2026-07-27 - A website for previewing League of Legends summoner Icons, emotes, and others.
+* [League Fan](https://github.com/league-fan/league-fan.github.io) ⭐ 11 | 🐛 0 | 🌐 Vue | 📅 2026-07-27 - A website for previewing League of Legends summoner Icons, emotes, and others.
 
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2019-02-02 - Export your friends list into a text file.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

@@ -191,7 +191,7 @@
             "open_issues": 2,
             "owner": "7rebux",
             "repo": "league-tools",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "lcu",
               "lcu-api",
@@ -471,7 +471,7 @@
             "language": "Vue",
             "license": null,
             "last_commit": "2026-07-27T07:00:09Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "league-fan",
             "repo": "league-fan.github.io",
             "stars": 11,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T12:52:49.860Z",
+    "last_updated": "2026-10-22T12:55:11.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 11,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 664,
+      "stars": 662,
       "topics": [
         "awesome",
         "awesome-list",
