@@ -45,7 +45,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [League Unglitch](https://github.com/MaciejGorczyca/League-Unglitch) ⭐ 46 | 🐛 0 | 🌐 C# | 📅 2020-04-27 - Windows C# application using ALREADY EXISTING functionality to fix existing UI/graphical bugs and issues that prevent players from joining champion select, selecting runes, selecting champions, banning champions, making players dodge champion select etc.
 
-* [Lytical](https://github.com/LyticalApp/Lytical) ⭐ 45 | 🐛 7 | 🌐 Vue | 📅 2024-01-20 - Match statistics and profile analytics app for all regions including Garena & WeGame.
+* [Lytical](https://github.com/LyticalApp/Lytical) ⭐ 46 | 🐛 7 | 🌐 Vue | 📅 2024-01-20 - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
@@ -117,9 +117,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,024 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,025 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
-* [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 288 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
+* [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 289 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
 * [Creator Suite](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) ⚠️ Archived - Tool by SkinSpotlights made for the Replay API.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

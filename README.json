@@ -322,7 +322,7 @@
             "open_issues": 7,
             "owner": "LyticalApp",
             "repo": "Lytical",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "china-opgg",
               "electron",
@@ -690,7 +690,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1024,
+            "stars": 1025,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -711,7 +711,7 @@
             "open_issues": 24,
             "owner": "RCVolus",
             "repo": "lol-pick-ban-ui",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "broadcast",
               "champ-select",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:34:34.799Z",
+    "last_updated": "2026-10-24T11:57:35.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
