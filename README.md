@@ -23,13 +23,13 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,735 | 🐛 5 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,737 | 🐛 5 | 🌐 C# | 📅 2026-09-01 - Masks your online status.
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,690 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,689 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-10-21 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
-* [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 97 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
+* [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 96 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) ⭐ 85 | 🐛 19 | 🌐 C# | 📅 2022-12-08 - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
@@ -125,7 +125,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Developer Tools
 
-* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 567 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
+* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 566 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
@@ -177,4 +177,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
