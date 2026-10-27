@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1737,
+            "stars": 1738,
             "topics": [
               "deceive",
               "friends",
@@ -53,7 +53,7 @@
             "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1689,
+            "stars": 1688,
             "topics": [
               "league-of-legends",
               "windows-10",
@@ -385,7 +385,7 @@
             "open_issues": 10,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "desktop-app",
               "hextech-ui",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:09:24.090Z",
+    "last_updated": "2026-10-27T13:08:24.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
