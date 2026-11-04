@@ -74,8 +74,8 @@
             "id": 502505224,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T12:08:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-04T11:57:04Z",
+            "open_issues": 5,
             "owner": "marvinscham",
             "repo": "disenchanter",
             "stars": 106,
@@ -381,8 +381,8 @@
             "id": 1157833896,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T08:27:19Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-03T22:18:08Z",
+            "open_issues": 11,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
             "stars": 41,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T15:00:44.510Z",
+    "last_updated": "2026-11-04T15:20:54.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
