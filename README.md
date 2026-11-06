@@ -23,7 +23,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,743 | 🐛 3 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,745 | 🐛 3 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,687 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
@@ -33,7 +33,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) ⭐ 85 | 🐛 19 | 🌐 C# | 📅 2022-12-08 - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
-* [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 23 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
+* [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 22 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
 * [League Tools](https://github.com/7rebux/league-tools) ⭐ 75 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
@@ -47,9 +47,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Lytical](https://github.com/LyticalApp/Lytical) ⭐ 46 | 🐛 7 | 🌐 Vue | 📅 2024-01-20 - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
-* [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 43 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-03 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 41 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-03 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
+* [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -76,6 +76,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [Baron Buff](https://baronbuff.com) - Draft assistant and coaching tool with champion recommendations, gameplay tips, and post-game improvement insights.
 
 * [Blitz App](https://blitz.gg/) - All in one assistant that provides information about the team, imports runes, and item builds.
+
+* [Hexgate](https://hexgate.app/) - Desktop overlay that reorders item builds against the enemy team using the Live Client Data API, imports rune pages in champion select, and analyzes finished games from the match timeline.
 
 * [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
 
@@ -115,6 +117,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [ggez.gg](https://ggez.gg/) - Champion builds, tier lists and summoner profiles built from Emerald+ ranked games via the Riot API, with per-patch impact pages and an AI match review.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,025 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
@@ -129,7 +133,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
-* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 162 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 164 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 123 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
@@ -177,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
