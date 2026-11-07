@@ -35,7 +35,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 22 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
-* [League Tools](https://github.com/7rebux/league-tools) ⭐ 75 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
+* [League Tools](https://github.com/7rebux/league-tools) ⭐ 75 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-07 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
