@@ -23,7 +23,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,745 | 🐛 3 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,747 | 🐛 3 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,687 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
@@ -35,7 +35,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 22 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
-* [League Tools](https://github.com/7rebux/league-tools) ⭐ 75 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-07 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
+* [League Tools](https://github.com/7rebux/league-tools) ⭐ 75 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
@@ -47,9 +47,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Lytical](https://github.com/LyticalApp/Lytical) ⭐ 46 | 🐛 7 | 🌐 Vue | 📅 2024-01-20 - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
-* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 43 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-03 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
-
 * [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
+
+* [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 42 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-03 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2024-02-08 - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -121,7 +121,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,025 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,026 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 289 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
