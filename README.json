@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-10-25T21:47:31Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1747,
+            "stars": 1748,
             "topics": [
               "deceive",
               "friends",
@@ -53,7 +53,7 @@
             "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1687,
+            "stars": 1686,
             "topics": [
               "league-of-legends",
               "windows-10",
@@ -187,7 +187,7 @@
             "id": 307498322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T11:32:39Z",
+            "last_commit": "2026-11-08T17:03:53Z",
             "open_issues": 2,
             "owner": "7rebux",
             "repo": "league-tools",
@@ -381,7 +381,7 @@
             "id": 1157833896,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T22:18:08Z",
+            "last_commit": "2026-11-09T08:10:30Z",
             "open_issues": 11,
             "owner": "lenny-ts",
             "repo": "league_profile_tool",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:15:01.087Z",
+    "last_updated": "2026-11-09T17:24:09.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 9,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 666,
+      "stars": 665,
       "topics": [
         "awesome",
         "awesome-list",
