@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-10-25T21:47:31Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1750,
+            "stars": 1752,
             "topics": [
               "deceive",
               "friends",
@@ -107,7 +107,7 @@
             "open_issues": 20,
             "owner": "Soundofdarkness",
             "repo": "RuneBook",
-            "stars": 96,
+            "stars": 95,
             "topics": [
               "lcu-api",
               "league-of-legends"
@@ -191,7 +191,7 @@
             "open_issues": 2,
             "owner": "7rebux",
             "repo": "league-tools",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "lcu",
               "lcu-api",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:31:46.223Z",
+    "last_updated": "2026-11-11T15:05:39.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",

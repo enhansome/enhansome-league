@@ -23,19 +23,19 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,750 | 🐛 4 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,752 | 🐛 5 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,686 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-11-04 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
-* [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 96 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
+* [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 95 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) ⭐ 85 | 🐛 19 | 🌐 C# | 📅 2022-12-08 - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 22 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
-* [League Tools](https://github.com/7rebux/league-tools) ⭐ 75 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
+* [League Tools](https://github.com/7rebux/league-tools) ⭐ 76 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
