@@ -23,9 +23,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,752 | 🐛 5 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,753 | 🐛 5 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,686 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,685 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-11-04 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -129,11 +129,11 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Developer Tools
 
-* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 565 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
+* [RiftExplorer](https://github.com/Pupix/rift-explorer) ⭐ 566 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - Electron application to explore the LCU API.
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
-* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 164 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 163 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 123 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
@@ -141,7 +141,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lol-client-java-api](https://github.com/stirante/lol-client-java-api) ⭐ 71 | 🐛 7 | 🌐 Java | 📅 2026-08-13 - Java library for connecting to LCU through API and websocket.
 
-* [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) ⭐ 51 | 🐛 2 | 🌐 C# | 📅 2019-01-23 - View and record events that the LCU sends through WebSockets.
+* [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) ⭐ 52 | 🐛 2 | 🌐 C# | 📅 2019-01-23 - View and record events that the LCU sends through WebSockets.
 
 * [RitoClient](https://github.com/nomi-san/RitoClient) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2026-02-17 - Deep dive into your RiotClient.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
