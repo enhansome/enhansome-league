@@ -23,9 +23,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,753 | 🐛 5 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
+* [Deceive](https://github.com/molenzwiebel/Deceive) ⭐ 1,754 | 🐛 5 | 🌐 C# | 📅 2026-10-25 - Masks your online status.
 
-* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,685 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,684 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-11-04 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
@@ -39,7 +39,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
-* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 48 | 🐛 1 | 🌐 Rust | 📅 2026-05-15 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
+* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 48 | 🐛 1 | 🌐 Rust | 📅 2026-11-12 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
 
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) ⭐ 47 | 🐛 1 | 🌐 C# | 📅 2020-09-18 - Enables the use of Windows 10 notifications to show alerts from the client.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
