@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1756,
+            "stars": 1757,
             "topics": [
               "deceive",
               "friends",
@@ -53,7 +53,7 @@
             "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1682,
+            "stars": 1681,
             "topics": [
               "league-of-legends",
               "windows-10",
@@ -690,7 +690,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1026,
+            "stars": 1025,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -711,7 +711,7 @@
             "open_issues": 24,
             "owner": "RCVolus",
             "repo": "lol-pick-ban-ui",
-            "stars": 289,
+            "stars": 288,
             "topics": [
               "broadcast",
               "champ-select",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:41:26.384Z",
+    "last_updated": "2026-11-16T16:56:46.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
