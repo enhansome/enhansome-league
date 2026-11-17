@@ -39,7 +39,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
-* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 48 | 🐛 1 | 🌐 Rust | 📅 2026-11-12 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
+* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
 
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) ⭐ 47 | 🐛 1 | 🌐 C# | 📅 2020-09-18 - Enables the use of Windows 10 notifications to show alerts from the client.
 
@@ -139,7 +139,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-connector](https://github.com/Pupix/lcu-connector) ⭐ 116 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22 - NPM Module to connect to the LCU automatically.
 
-* [lol-client-java-api](https://github.com/stirante/lol-client-java-api) ⭐ 71 | 🐛 7 | 🌐 Java | 📅 2026-08-13 - Java library for connecting to LCU through API and websocket.
+* [lol-client-java-api](https://github.com/stirante/lol-client-java-api) ⭐ 70 | 🐛 7 | 🌐 Java | 📅 2026-08-13 - Java library for connecting to LCU through API and websocket.
 
 * [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) ⭐ 52 | 🐛 2 | 🌐 C# | 📅 2019-01-23 - View and record events that the LCU sends through WebSockets.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

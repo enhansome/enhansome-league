@@ -235,7 +235,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T21:25:51Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "FFFFFFFXXXXXXX",
             "repo": "league_record",
             "stars": 48,
@@ -893,7 +893,7 @@
             "open_issues": 7,
             "owner": "stirante",
             "repo": "lol-client-java-api",
-            "stars": 71,
+            "stars": 70,
             "topics": [
               "internal-league",
               "java",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:56:46.541Z",
+    "last_updated": "2026-11-17T16:50:10.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1340,7 +1340,7 @@
       "open_issues": 11,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
-      "stars": 666,
+      "stars": 667,
       "topics": [
         "awesome",
         "awesome-list",
