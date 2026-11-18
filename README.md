@@ -27,7 +27,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ChampR](https://github.com/cangzhang/champ-r) ⭐ 1,681 | 🐛 10 | 🌐 Rust | 📅 2026-04-17 - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
 
-* [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-11-04 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
+* [Disenchanter](https://github.com/marvinscham/disenchanter) ⭐ 106 | 🐛 5 | 🌐 Go | 📅 2026-11-18 - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) ⭐ 95 | 🐛 20 | 🌐 JavaScript | 📅 2023-08-19 - App that can import runes from many sources. Updated fork of the original app.
 
@@ -47,7 +47,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Lytical](https://github.com/LyticalApp/Lytical) ⭐ 46 | 🐛 7 | 🌐 Vue | 📅 2024-01-20 - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
-* [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
+* [YasuNO](https://github.com/pseudonym117/YasuNO) ⭐ 44 | 🐛 5 | 🌐 C# | 📅 2022-12-08 - Prevents you from selecting Yasuo in champion select.
 
 * [league\_profile\_tool](https://github.com/l9lenny/league_profile_tool) ⭐ 42 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09 - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
@@ -121,7 +121,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Content Creation
 
-* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,025 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
+* [League Director](https://github.com/RiotGames/leaguedirector) ⭐ 1,027 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - Official tool for making advanced League of Legends replays.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) ⭐ 288 | 🐛 24 | 🌐 TypeScript | 📅 2024-02-21 - Web based tournament UI to display champion select picks and bans.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

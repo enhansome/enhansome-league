@@ -74,7 +74,7 @@
             "id": 502505224,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T11:57:04Z",
+            "last_commit": "2026-11-18T12:50:35Z",
             "open_issues": 5,
             "owner": "marvinscham",
             "repo": "disenchanter",
@@ -364,7 +364,7 @@
             "open_issues": 5,
             "owner": "YasuNO-LLC",
             "repo": "YasuNO",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -690,7 +690,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1025,
+            "stars": 1027,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:50:10.776Z",
+    "last_updated": "2026-11-18T16:23:02.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
