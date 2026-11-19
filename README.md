@@ -149,11 +149,11 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-api](https://github.com/jjmaldonis/lcu-api) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2020-05-22 - A Python LCU wrapper.
 
-* [PoniLCU](https://github.com/Ponita0/PoniLCU) ⭐ 21 | 🐛 2 | 🌐 C# | 📅 2022-05-30 - C# Library for interacting with the LCU APIs.
-
 * [league-client-mcp](https://github.com/rumi-chan/league-client-mcp) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-27 - Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.
 
 * [hexgate](https://github.com/cuppachino/hexgate) ⭐ 21 | 🐛 2 | 🌐 TypeScript | 📅 2023-12-06 - A TypeScript LCU wrapper available on NPM.
+
+* [PoniLCU](https://github.com/Ponita0/PoniLCU) ⭐ 20 | 🐛 2 | 🌐 C# | 📅 2022-05-30 - C# Library for interacting with the LCU APIs.
 
 * [simple-debugger](https://github.com/dragitz/simple-debugger) ⚠️ Archived - Debug client API calls via Fiddler.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

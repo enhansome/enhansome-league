@@ -1003,33 +1003,6 @@
         },
         {
           "node_type": "item",
-          "title": "PoniLCU",
-          "description": "C# Library for interacting with the LCU APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A league of legends LCU library ",
-            "homepage": null,
-            "id": 380516587,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2022-05-30T06:37:56Z",
-            "open_issues": 2,
-            "owner": "Ponita0",
-            "repo": "PoniLCU",
-            "stars": 21,
-            "topics": [
-              "lcu",
-              "lcu-api",
-              "league-of-legends",
-              "league-of-legends-api",
-              "leagueoflegends"
-            ]
-          },
-          "first_seen": "2026-08-28T19:24:02.461Z"
-        },
-        {
-          "node_type": "item",
           "title": "league-client-mcp",
           "description": "Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.",
           "children": [],
@@ -1083,6 +1056,33 @@
               "riot-games-api",
               "typescript",
               "typescript-library"
+            ]
+          },
+          "first_seen": "2026-08-28T19:24:02.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PoniLCU",
+          "description": "C# Library for interacting with the LCU APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A league of legends LCU library ",
+            "homepage": null,
+            "id": 380516587,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2022-05-30T06:37:56Z",
+            "open_issues": 2,
+            "owner": "Ponita0",
+            "repo": "PoniLCU",
+            "stars": 20,
+            "topics": [
+              "lcu",
+              "lcu-api",
+              "league-of-legends",
+              "league-of-legends-api",
+              "leagueoflegends"
             ]
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:23:02.228Z",
+    "last_updated": "2026-11-19T16:29:57.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
