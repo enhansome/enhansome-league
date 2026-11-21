@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1759,
+            "stars": 1760,
             "topics": [
               "deceive",
               "friends",
@@ -53,7 +53,7 @@
             "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1681,
+            "stars": 1680,
             "topics": [
               "league-of-legends",
               "windows-10",
@@ -690,7 +690,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1027,
+            "stars": 1028,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:03:29.352Z",
+    "last_updated": "2026-11-21T15:16:26.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
