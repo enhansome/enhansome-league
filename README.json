@@ -53,7 +53,7 @@
             "open_issues": 10,
             "owner": "cangzhang",
             "repo": "ChampR",
-            "stars": 1680,
+            "stars": 1678,
             "topics": [
               "league-of-legends",
               "windows-10",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T15:13:17.912Z",
+    "last_updated": "2026-11-23T19:10:30.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
@@ -1337,7 +1337,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-05T21:10:34Z",
-      "open_issues": 11,
+      "open_issues": 13,
       "owner": "CommunityDragon",
       "repo": "awesome-league",
       "stars": 668,
