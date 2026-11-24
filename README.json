@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-10-25T21:47:31Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "molenzwiebel",
             "repo": "Deceive",
-            "stars": 1761,
+            "stars": 1760,
             "topics": [
               "deceive",
               "friends",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:10:30.877Z",
+    "last_updated": "2026-11-24T18:49:37.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
