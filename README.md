@@ -33,13 +33,13 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) ⭐ 85 | 🐛 19 | 🌐 C# | 📅 2022-12-08 - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
-* [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 85 | 🐛 22 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
+* [RuneChanger](https://github.com/stirante/RuneChanger) ⭐ 84 | 🐛 22 | 🌐 Java | 📅 2023-04-14 - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
 * [League Tools](https://github.com/7rebux/league-tools) ⭐ 76 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-23 - Manages your keybindings based on your selected champion.
 
-* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
+* [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) ⭐ 47 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
 
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) ⭐ 47 | 🐛 1 | 🌐 C# | 📅 2020-09-18 - Enables the use of Windows 10 notifications to show alerts from the client.
 
@@ -63,9 +63,9 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2019-02-09 - Creates custom missions for clubs.
 
-* [PassCalc](https://github.com/Fumi24/PassCalc) ⭐ 7 | 🐛 1 | 🌐 C# | 📅 2022-12-08 - A calculator for League of Legends passes.
-
 * [LickMyRunes](https://github.com/Ponita0/LickMyRunes) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2023-07-12 - Automatically import runes for your picked champion from OP.GG.
+
+* [PassCalc](https://github.com/Fumi24/PassCalc) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2022-12-08 - A calculator for League of Legends passes.
 
 * [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2019-01-25 - Creates your personalized trophy wall based on completed challenges.
 
@@ -133,7 +133,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2024-08-31 - NPM Module to get the LCU credentials and connect to the websocket.
 
-* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 163 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) ⭐ 162 | 🐛 2 | 🌐 C# | 📅 2026-05-25 - A helper development tool and explorer for the LCU.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) ⭐ 123 | 🐛 6 | 🌐 Python | 📅 2024-11-30 - Python3 interface for LCU API.
 
@@ -181,4 +181,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

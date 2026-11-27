@@ -161,7 +161,7 @@
             "open_issues": 22,
             "owner": "stirante",
             "repo": "RuneChanger",
-            "stars": 85,
+            "stars": 84,
             "topics": [
               "champion-selection",
               "hacktoberfest",
@@ -238,7 +238,7 @@
             "open_issues": 2,
             "owner": "FFFFFFFXXXXXXX",
             "repo": "league_record",
-            "stars": 48,
+            "stars": 47,
             "topics": [
               "league",
               "league-of-legends",
@@ -576,27 +576,6 @@
         },
         {
           "node_type": "item",
-          "title": "PassCalc",
-          "description": "A calculator for League of Legends passes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A calculator for league of legends passes",
-            "homepage": null,
-            "id": 200479163,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2022-12-08T05:54:56Z",
-            "open_issues": 1,
-            "owner": "Fumi24",
-            "repo": "PassCalc",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:24:02.461Z"
-        },
-        {
-          "node_type": "item",
           "title": "LickMyRunes",
           "description": "Automatically import runes for your picked champion from OP.GG.",
           "children": [],
@@ -619,6 +598,27 @@
               "lol",
               "runes"
             ]
+          },
+          "first_seen": "2026-08-28T19:24:02.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PassCalc",
+          "description": "A calculator for League of Legends passes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A calculator for league of legends passes",
+            "homepage": null,
+            "id": 200479163,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2022-12-08T05:54:56Z",
+            "open_issues": 1,
+            "owner": "Fumi24",
+            "repo": "PassCalc",
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:02.461Z"
         },
@@ -817,7 +817,7 @@
             "open_issues": 2,
             "owner": "BlossomiShymae",
             "repo": "Needlework.Net",
-            "stars": 163,
+            "stars": 162,
             "topics": [
               "ingame-api",
               "lcu",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:40:25.501Z",
+    "last_updated": "2026-11-27T17:24:40.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of apps that work with the League of Legends Client & In-Game API.",
